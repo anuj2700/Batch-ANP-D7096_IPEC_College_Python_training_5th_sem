@@ -22,3 +22,12 @@ print("Time Period: ", time, "year")
 #-----------------------------------------------------
 #displaying simple interest
 print("Simple Interest: Rs", (principal * rate * time) / 100)
+#-----------------------------------------------------
+''' Output: 
+Enter the principal (in Rs): 10000
+Enter the rate of interest(in %): 5
+Enter the time period(in year): 2
+Principal: Rs 10000.0
+Rate of Interest:  5.0 %
+Time Period:  2 year
+Simple Interest: Rs 1000.0'''
